@@ -1,0 +1,351 @@
+case_id,image,dataset_label,question,gold,choice_A,choice_B,choice_C,choice_D,ground_truth
+malaria_001,malaria_001.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_002,malaria_002.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_003,malaria_003.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_004,malaria_004.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_005,malaria_005.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_006,malaria_006.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_007,malaria_007.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_008,malaria_008.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_009,malaria_009.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_010,malaria_010.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_011,malaria_011.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_012,malaria_012.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_013,malaria_013.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_014,malaria_014.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_015,malaria_015.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_016,malaria_016.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_017,malaria_017.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_018,malaria_018.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_019,malaria_019.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_020,malaria_020.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_021,malaria_021.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_022,malaria_022.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_023,malaria_023.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_024,malaria_024.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_025,malaria_025.png,PARASITIZED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",A,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is parasitized — a malaria parasite is present.
+malaria_026,malaria_026.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_027,malaria_027.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_028,malaria_028.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_029,malaria_029.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_030,malaria_030.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_031,malaria_031.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_032,malaria_032.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_033,malaria_033.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_034,malaria_034.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_035,malaria_035.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_036,malaria_036.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_037,malaria_037.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_038,malaria_038.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_039,malaria_039.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_040,malaria_040.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_041,malaria_041.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_042,malaria_042.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_043,malaria_043.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_044,malaria_044.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_045,malaria_045.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_046,malaria_046.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_047,malaria_047.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_048,malaria_048.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_049,malaria_049.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
+malaria_050,malaria_050.png,UNINFECTED,"Look at this blood smear cell microscopy image.
+Which label best describes the cell?
+
+A. Malaria parasite is present (the cell is parasitized)
+B. No malaria parasite is present (the cell is uninfected)
+C. This is not a blood smear cell microscopy image
+D. I cannot determine the infection status of the cell",B,Malaria parasite is present (the cell is parasitized),No malaria parasite is present (the cell is uninfected),This is not a blood smear cell microscopy image,I cannot determine the infection status of the cell,The cell is uninfected — no malaria parasite is present.
