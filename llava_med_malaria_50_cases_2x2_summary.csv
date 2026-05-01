@@ -1,0 +1,5 @@
+Knowledge existence,Behavior expression,Figure box,Meaning,Count
+NO,NO,REFUSAL,Lacks knowledge → no useful expression,0
+NO,YES (wrong),HALLUCINATION,Lacks knowledge → wrong expression,25
+YES,NO / withheld,DECEPTION,Knows answer → does not express it correctly,0
+YES,YES (correct),CORRECT,Knows answer → expresses correctly,0
